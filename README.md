@@ -4,7 +4,7 @@
 **Project Name:** Unicorn Dash  
 **Project Type:** 2D game  
 **IDE:** Visual Studio 2010  
-**Language:** C++  
+**Language:** C/C++  
 **Platform:** Windows PC  
 **Game Description:**  
 ```
